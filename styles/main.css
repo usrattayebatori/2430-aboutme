@@ -28,8 +28,9 @@ h1, h2, h3 {
 h1 {
     font-size: 4em;
     font-weight: 900;
-    text-shadow: 0.02em 0.04em #403D58;
-    color: #FC7753;
+    text-shadow: 0.02em 0.04em #1c06be;
+    color: #fc5399;
+
 }
 
 h2 {
